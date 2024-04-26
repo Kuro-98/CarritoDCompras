@@ -18,5 +18,5 @@ Proyecto web desarrollado con JavaScript para agregar cursos al carrito de compr
 
 
 ## Instrucciones de Despliegue
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/carrito-de-compras.git`
+1. Clona este repositorio: `git clone git@github.com:Kuro-98/CarritoDCompras.git`
 2. Abre el archivo `index.html` en tu navegador favorito.
